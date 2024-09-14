@@ -1,9 +1,9 @@
-# Jogo - Zero Cancela
+<h1 align="center">Jogo - Zero Cancela</h1>
 O jogo "Zero Cancela" foi desenvolvido em python como primeira atividade avaliativa da disciplina de Algoritmos de Programação, Projetos e Computação, no primeiro semestre. Nele, o jogador digita números inteiros positivos que são somados, mas pode anular os últimos números inseridos ao digitar zero, com um limite de três anulações consecutivas. O jogo termina quando um número negativo é inserido.
 
 ---
+<h1 align="center">Sistema - Folha de Pagamento</h1>
 
-# Sistema - Folha de Pagamento
 Este é um sistema simples para gerenciamento de folha de pagamento de funcionários. Ele permite a inserção, remoção e consulta de informações sobre os colaboradores, além do cálculo de salários líquidos, aplicação de descontos por faltas e impostos.
 
 ## Funcionalidades

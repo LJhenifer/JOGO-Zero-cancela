@@ -1,2 +1,2 @@
-# Jogo-Zero-Cancela
+# Jogo Zero Cancela
 O jogo "Zero Cancela" foi desenvolvido como primeira atividade avaliativa da disciplina de Algoritmos de Programação, Projetos e Computação, no primeiro semestre. Nele, o jogador digita números inteiros positivos que são somados, mas pode anular os últimos números inseridos ao digitar zero, com um limite de três anulações consecutivas. O jogo termina quando um número negativo é inserido.
